@@ -1,0 +1,44 @@
+/* Global styles */
+body {
+    background-color: #da7e7e; /* New background color */
+    font-family: Arial, sans-serif;
+}
+
+/* Container styles */
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Header styles */
+h1 {
+    color: #007bff; /* Changed text color */
+    font-size: 60px; /* Increased font size */
+}
+
+/* Button styles */
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #806565;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    font-weight: bold; /* Added font-weight */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Meme image styles */
+#memeImage {
+    width: 100px;
+    position: relative;
+}
